@@ -1,0 +1,9 @@
+python-dotenv
+tkcalendar
+Pillow
+mysql-connector-python
+reportlab
+weasyprint
+jinja2
+customtkinter
+CTkTable
